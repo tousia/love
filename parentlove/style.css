@@ -1,0 +1,147 @@
+
+
+.main{
+    list-style-type: decimal;
+}
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+table{
+    width: 500px;
+    margin: 10px auto;
+    border-spacing: 2px 10px;
+
+}
+tr.even{
+    background-color: cadetblue;
+
+}
+tr.hover{
+    background-color: gray;
+}
+th,td{
+    padding: 10px;
+    border: 1px solid gray;
+}
+td.hover{
+    background-color: blueviolet;
+}
+
+form{
+    width: 500px;
+    padding: 10px;
+    margin: 10px auto;
+    
+
+}
+input{
+    padding: 10px;
+    margin: 5px;
+    font-size: 1em;
+    border: 1px solid brown;
+}
+
+input.email{
+    background-image: url(image/mail.png);
+    background-size: 50px;
+    background-repeat: no-repeat;
+    padding: 10px 10px 10px 50px;
+}
+
+input.password{
+    background-image: url(image/password.jpg);
+    background-size: 50px;
+    background-repeat: no-repeat;
+    padding: 10px 10px 10px 50px;
+}
+input.focus{
+    border-color:pink;
+}
+
+button{
+    padding: 10px;
+    margin: 5px;
+    font-size: 1em;
+    border: none;
+    background-color: royalblue;
+    color: azure;
+    border-radius: 5px;
+    cursor: pointer;
+
+
+} 
+fieldset{
+    border-radius: 5px;
+    border: 1px solid black;
+}
+legend{
+    padding: 10px;
+    background-color: lightgray;
+    color: royalblue;
+    font-weight: bold;
+    border-radius: 5px;
+}
+.center{
+    text-align: center;
+}
+
+label{
+    display: inline-block;
+    width: 100px;
+    text-align: right;
+   
+}
+body{
+    background-color: lightblue;
+}
+
+.black {
+    background-color: black;
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+    margin: 5px 10px 5px 10px;
+}
+
+.white{
+    background-color: white;
+    height: 100px;
+    width: 100px;
+   display: inline;
+}
+
+img{
+    position: absolute;
+    left: 20px;
+    bottom: -290px;
+    right: 80px;
+}
+
+img{
+    position: ;
+}
+
+.scroll{
+    position: fixed ;
+    bottom: 30px;
+    right: 30px;
+}
+img{
+;
+}
+
+.first {
+    width: 120px;
+    width: 30px;
+    background-color: crimson;
+    float: left;
+}
+    
+.second {
+    width: 120px;
+    height: 30px;
+    background-color: chocolate;
+    float: left;
+    
+}

@@ -1,0 +1,130 @@
+@font-face{
+   font-family: ubuntu;
+   src: url('Ubuntu-Regular.ttf');
+}
+ 
+ h1{
+    background-color: beige;
+    color: black;
+    text-shadow: -1px 1px 3px;
+    
+ }
+    
+ .bio {
+    background-color: rgb(57, 223, 24); opacity: 0.6;
+    color: blueviolet;
+ }
+ li>a {
+    background-color: chocolate;
+    opacity: 0.7;
+ }
+p>b {
+    background-color: burlywood;
+    text-decoration: underline;
+    text-transform: capitalize;
+}
+
+ul+a {
+    background-color: rgba(175, 190, 133,0.5);
+}
+ h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    font-size: 42px;
+    
+ }
+
+ p{
+    font-size: 20px;
+     }
+     .para{
+        text-indent: 2px;
+     }
+ div{
+    font-size: 200%;
+ }
+
+ input {
+    font-size: 30px;
+ }
+*{
+    font-family: ubuntu ;
+}
+div a{
+    line-height: 4.4cm;
+}
+div h1{
+    text-decoration: underline;
+    text-align: center;
+}
+div iframe{
+    ;
+}
+
+body {
+    text-align: center;
+}
+
+p.intro:first-letter{
+    font-size: 200%;
+}
+
+h1::first-letter{
+    font-size: 200%;
+}
+a.format:link{
+    color: blue;
+    text-decoration: beige;
+}
+a.format:visited{
+    color: pink;
+}
+ input.format:hover{
+    background-color: greenyellow;
+}
+form
+
+a .format:link{
+    color: cornflowerblue;
+    text-decoration: none;
+}
+
+a.format:visited{
+    color: brown;
+}
+.main{
+    border: 2px solid red;
+    min-width: 200px;
+    max-width: 700px;
+    overflow: scroll;
+    list-style-type:decimal;
+
+}
+
+p{
+ background-color: plum;
+ border: 2px solid blue;
+ padding: 10px;
+ margin: 10px;
+}
+
+.main1{
+    border: 3px solid blue;
+    overflow: scroll;
+    padding: 10px;
+    margin: o auto;
+    background-color: aqua;
+}
+
+li{
+    display: inline;
+    height: 20px;
+    padding: 10px;
+    margin: 5px;
+
+}
+
+div.main2{
+    list-style-type: decimal;
+    display: ;
+}

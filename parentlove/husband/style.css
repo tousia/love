@@ -1,0 +1,60 @@
+.main1{
+    border: 3px solid blue;
+    overflow: scroll;
+    padding: 10px;
+    margin: o auto;
+    background-color: aqua;
+
+}
+
+p{
+    text-align: center;
+}
+li{
+    display: inline;
+    height: 20px;
+    padding: 10px;
+    margin: 5px;
+    background-color: salmon;
+    text-align: center;
+
+}
+
+h1{
+    text-align: center;
+    color: black;
+    text-shadow: 2px 2px 2px palevioletred;
+  
+    border: 2px solid greenyellow;
+    box-shadow: 5px 3px 3px rgb(17, 17, 16);
+    border-radius: 40
+}
+.main2 {
+    list-style-type: decimal;
+}
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    px;
+
+}
